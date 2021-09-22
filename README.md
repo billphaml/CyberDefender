@@ -15,8 +15,6 @@ Developed by: Alicia Taing, Bill Pham, Hans Wilter, Hamza Siddiqui
       <a href="https://drive.google.com/file/d/1y8z2b_yCWGG8tLa2mdrogX4li4_Tcz_K/view?usp=sharing">Game Pitch</a>
       &nbsp; &nbsp; &nbsp; &nbsp;
       <a href="https://drive.google.com/file/d/1QL78kB5bE7pQIXlTfQzvuOvnWEBeuxlR/view?usp=sharing">Design Doc</a>
-      &nbsp; &nbsp; &nbsp; &nbsp;
-      <a href="https://billphaml.github.io/385-Final-Demo/">Click to Play</a><br/>
       <p></p>
       <p></p>
       <img border="0" src="https://drive.google.com/uc?id=1JtNbelgpdHEmq-58KuFg_uvN8HkEHQjt" width="300px"/>
